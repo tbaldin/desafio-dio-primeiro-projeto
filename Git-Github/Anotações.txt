@@ -1,0 +1,12 @@
+# Trabalhando com GIT
+
+- git init
+inicializa o projeto
+após inicio, deve ser configurado user.email e user.name: 
+`git config --global user.email meuemail@email.com` e `git config --global user.name meunome`
+
+- git add NomeArquivo ou *
+Adiciona as alterações para o stage para serem commitados no git
+
+- git commit -m "mensagem"
+Adiciona o que está no stage para o git
